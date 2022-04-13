@@ -22,4 +22,4 @@ Next up is *syntax highlighting*. I think syntax highlighting is my fvaorite bec
   You want good themes that don't strain your eyes. Have you ever started at bright yellow text with a red background?
   I highly DON'T suggest doing that but you get the picture.
    
-  Picking the correct 
+  Picking the correct text editor depends on these top 3 items I talked about. It will make coding either fun and easier for you or pretty and more engaging.
