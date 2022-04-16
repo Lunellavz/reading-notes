@@ -46,3 +46,5 @@ Rules for those unique names:
 -Names are case sensitive
 
 In javascript "=" does not mean equal to, it means assigned to. (== means equal to)
+
+To assing a value to a varaible, use =
