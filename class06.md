@@ -28,8 +28,21 @@ var k=x+y
 
 ## But when should I use these different types of variable assigners?
 
-Use var for Javascript coding from 1995-2015 ( sue in old browsers)
+Use var for Javascript coding from 1995-2015 ( use in old browsers)
 
 Let and const were added in 2015.
 
 Generally use const to assign variables
+ IF the vaule of the variable is going to change, use let.
+ 
+## Javascript identifiers
+
+- All variables need a unique name tied to them.
+
+Rules for those unique names:
+
+-Has to start with a letter. ($ is allowed for a begining letter)
+
+-Names are case sensitive
+
+In javascript "=" does not mean equal to, it means assigned to. (== means equal to)
