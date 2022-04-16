@@ -21,3 +21,15 @@ Java is a different language than javascript.
 4. nothing
 
 ## Example
+
+var x=5
+var y=4
+var k=x+y
+
+## But when should I use these different types of variable assigners?
+
+Use var for Javascript coding from 1995-2015 ( sue in old browsers)
+
+Let and const were added in 2015.
+
+Generally use const to assign variables
