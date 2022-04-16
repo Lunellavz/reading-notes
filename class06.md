@@ -15,7 +15,7 @@ Java is a different language than javascript.
 -Variables are like boxes, and we store data in those organized boexes.
 -There are 4 ways to declare a variable in Javascript:
 
-1. var
+1. var (OUTDATED)
 2. let
 3. const
 4. nothing
