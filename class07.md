@@ -19,3 +19,5 @@ https://www.w3schools.com/js/js_functions.asp
 -function parameters listed inside (), in function definition
 
 -In order to stop a function, javascript needs a return statement
+
+-Functions can be used the same way as you use variables, in all types of formulas, assignments, and calculations
