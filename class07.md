@@ -1,3 +1,5 @@
+https://www.w3schools.com/js/js_functions.asp
+
 # What is control flow
 
 -It is the order in which the computer follows.
@@ -5,5 +7,15 @@
 # Javascript function
 
 -Javascript functions is code that is designed to execute a job.
--FUnctions are exectued when something promts it
--
+
+-Functions are exectued when something promts it
+
+-Javascript functions use the keyword function followed by name and ()
+
+-Function rules same as variable rules
+
+-Code that will be executed will be inside {}
+
+-function parameters listed inside (), in function definition
+
+-In order to stop a function, javascript needs a return statement
