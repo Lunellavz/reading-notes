@@ -5,6 +5,7 @@
 >
 ### **3 reminders to myself for growth mindset:**
 
+
 -*Remember why you started*
 
 -*Ask for help*
